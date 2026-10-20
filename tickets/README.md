@@ -1,13 +1,14 @@
 # Simulated IT Support Ticket Log
 
-**29 total tickets: 28 Resolved and 1 In Progress.** Includes all 27 original records and two additional incident summaries from a fictional hospital homelab.
+**30 total tickets: 30 Resolved, 0 In Progress.** Includes all 27 original records, two additional incident summaries, and CHG0018 from a fictional hospital homelab.
 
 All 27 original tickets are **Resolved**, explicitly confirmed by the lab owner on October 20, 2026. The sequential practice workflow required resolving each ticket before moving to the next.
 
 - **INC0000 and CHG0015:** Detailed historical technical resolutions and verification results are preserved.
 - **Other 25 original tickets:** Resolution confirmed by lab owner; detailed historical work notes unavailable.
 - **INC0018:** Resolved; owner-confirmed historical Closed / Passed checkpoint on October 19, 2026.
-- **INC0019:** In Progress; investigation started October 20, 2026, without a confirmed resolution.
+- **CHG0018:** Resolved; department wallpaper GPOs deployed and all six departments verified, as reported by the lab owner.
+- **INC0019:** Resolved; explicitly confirmed by the lab owner on October 20, 2026. Detailed technical work and verification records are unavailable.
 
 Original requirements and existing evidence are preserved. Historical unchecked acceptance criteria indicate that individual test notes were not retained; current status is stated separately. No missing commands, actions or test results have been invented.
 
@@ -41,7 +42,8 @@ Original requirements and existing evidence are preserved. Historical unchecked 
 | [CHG0017](CHG0017.md) | Change | P3 | Print server for Ward 3, deployed by policy | Resolved | Resolution confirmed by lab owner; detailed historical work notes unavailable |
 | [INC0003](INC0003.md) | Incident | P2 | Ward 3 can't print discharge papers | Resolved | Resolution confirmed by lab owner; detailed historical work notes unavailable |
 | [INC0018](INC0018.md) | Incident | Not recorded | High Memory Usage on Windows 11 | Resolved | Owner-confirmed progression; Closed / Passed 2026-10-19 |
-| [INC0019](INC0019.md) | Incident | Not recorded | Account Lockout Investigation | In Progress | Owner-confirmed open checkpoint 2026-10-20 |
+| [INC0019](INC0019.md) | Incident | Not recorded | Account Lockout Investigation | Resolved | Owner-confirmed resolution; detailed historical work notes unavailable |
+| [CHG0018](CHG0018.md) | Change | Not recorded | Department Wallpaper Deployment via Group Policy | Resolved | Owner-supplied work and verification report; all six departments verified |
 
 ## Scenario References
 

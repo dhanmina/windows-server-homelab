@@ -93,9 +93,9 @@ These cases preserve their historical names and recorded test results. Current s
 
 ## Full Ticket Log & Documentation
 
-**29 total tickets: 28 Resolved and 1 In Progress.** All 27 original exercises are resolved based on the lab owner’s confirmation. INC0018 is also resolved; INC0019 remains in progress. Detailed historical technical resolutions are retained for INC0000 and CHG0015; the other 25 original tickets identify owner-confirmed resolution with detailed work notes unavailable.
+**30 total tickets: 30 Resolved, 0 In Progress.** All 27 original exercises are resolved based on the lab owner’s confirmation. INC0018 and INC0019 are also resolved based on owner confirmation. [CHG0018 — Department Wallpaper Deployment via Group Policy](tickets/CHG0018.md) documents six department-specific wallpapers deployed through SYSVOL-backed UNC paths and department GPOs, including correction of a path issue that caused a black desktop background. All six departments were verified through domain-user sign-ins, as reported by the lab owner. Detailed historical technical resolutions are retained for INC0000 and CHG0015; the other 25 original tickets identify owner-confirmed resolution with detailed work notes unavailable.
 
-- [Ticket Log: 27 original records and 2 recovered incident summaries](tickets/README.md) — identity support, permissions, Group Policy, DNS, printing and virtualization scenarios, with individual work and outcome records.
+- [Full Ticket Log: all 30 resolved records](tickets/README.md) — identity support, permissions, Group Policy, DNS, printing and virtualization scenarios, with individual work and outcome records.
 - [Lab environment](docs/lab-environment.md) — infrastructure configuration and screenshot details.
 - [Fictional hospital standards](docs/references/COMPANY.md) — organizational context, naming conventions and scenario requirements.
 - [Historical ticket requirements](docs/references/TICKETS.md) — original requests and acceptance criteria.
