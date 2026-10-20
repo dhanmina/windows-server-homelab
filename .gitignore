@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+._*
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# VM disks and OS media
+*.vhd
+*.vhdx
+*.avhd
+*.avhdx
+*.vmdk
+*.vdi
+*.iso
+
+# Local scratch files
+*.tmp
+*.log
+
